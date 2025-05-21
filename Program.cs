@@ -19,6 +19,7 @@
 
 Demo([4, 2, 7, 1, 3], 2);
 Demo([4, 2, 7, 1, 3], 5);
+Console.ReadKey();
 
 void Demo(int[] root, int val)
 {
